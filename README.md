@@ -1,6 +1,6 @@
 <img src="http://pool.bitcoinn.biz/bitcoin-nova.png">
 
-# Bitcoin nova WooCommerce Extension
+# Bitcoin Nova WooCommerce Extension
 
 Donate: EAsX15ieXY1NAk9Yu3NoVBfBqUgsFPsv47Ff4W1t491vHiD8fyGHD7nR7gVk1FrcbP2d2mJfBt3M45NgbV6ZRcSdHixcSPH
 
