@@ -2,39 +2,33 @@
 
 # Bitcoin Nova WooCommerce Extension
 
-Donate: EAsX15ieXY1NAk9Yu3NoVBfBqUgsFPsv47Ff4W1t491vHiD8fyGHD7nR7gVk1FrcbP2d2mJfBt3M45NgbV6ZRcSdHixcSPH
+**Requires:** WordPress 4.x.x, WooCommerce 3.x.x
 
-Tags: bitcoinnova, woocommerce, integration, payment, merchant, cryptocurrency, accept bitcoinnova, bitcoinnova woocommerce
+**Tested:** WordPress 4.9.4, WooCommerce 3.3.3
 
-Requires at least: 4.0
+**Licence:** GPLv3 or later
 
-Tested up to: 4.8
-
-Stable tag: trunk
-
-License: GPLv3 or later
-
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+**License URI:** http://www.gnu.org/licenses/gpl-3.0.html
  
-Bitcoin nova WooCommerce Extension is a Wordpress plugin that allow merchants to accept BTNs are payments at WooCommerce-powered online stores.
+Bitcoin Nova WooCommerce Extension is a Wordpress plugin that allow merchants to accept BTNs are payments at WooCommerce-powered online stores.
 
 ## Description
 
 Your online store must use WooCommerce platform (free wordpress plugin).
-Once you installed and activated WooCommerce, you may install and activate Bitcoin nova WooCommerce Extension.
+Once you installed and activated WooCommerce, you may install and activate Bitcoin Nova WooCommerce Extension.
 
 ## Benefits 
 
-* Accept payment directly into your personal Bitcoin nova wallet.
-* Accept payment in Bitcoin nova for physical and digital downloadable products.
-* Add Bitcoin nova payments option to your existing online store with alternative main currency.
-* Automatic conversion to Bitcoin nova via realtime exchange rate feed and calculations.
+* Accept payment directly into your personal Bitcoin Nova Wallet.
+* Accept payment in Bitcoin Nova for physical and digital downloadable products.
+* Add Bitcoin Nova payments option to your existing online store with alternative main currency.
+* Automatic conversion to Bitcoin Nova via realtime exchange rate feed and calculations.
 
 ## Installation
 
 1. Install "Bitcoin Nova WooCommerce Gateway" ZIP file in Wordpress just like any other plugin.
 2. Activate
-3. Configure it with your wallet RPC address, (username or password not requested), your Bitcoin nova address 
+3. Configure it with your wallet RPC address, (username or password not requested), your Bitcoin Nova address 
 4. Profit
 
 ## Remove plugin
