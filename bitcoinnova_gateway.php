@@ -2,7 +2,7 @@
 /*
 Plugin Name: Bitcoin Nova - WooCommerce Gateway
 Plugin URI: http://bitcoinnova.org
-Description: Extends WooCommerce by adding the Bitcoin nova Gateway
+Description: Extends WooCommerce by adding the Bitcoin Nova Gateway
 Version: 0.2
 Author: David and Nicolas
 */
