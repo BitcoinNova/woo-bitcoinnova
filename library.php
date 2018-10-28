@@ -1,13 +1,11 @@
 <?php
-/**
- * library.php
- *
- * @author Fexra <fexra@protonmail.com>
- *
- * Donate TRTLuzAzNs1E1RBFhteX56A5353vyHuSJ5AYYQfoN97PNbcMDvwQo4pUWHs7SYpuD9ThvA7AD3r742kwTmWh5o9WFaB9JXH8evP
- *
- * Reality is the concensus constructed between your neurons.
- */
+/*
+Plugin Name: Bitcoin Nova - WooCommerce Gateway
+Plugin URI: http://bitcoinnova.org
+Description: Extends WooCommerce by adding the Bitcoin Nova Gateway
+Version: 0.2
+Author: David and Nicolas
+*/
 class BitcoinNova_Library {
     protected $url = null, $is_debug = false, $parameters_structure = 'array';
     protected $curl_options = array(
