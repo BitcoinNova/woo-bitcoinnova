@@ -32,7 +32,7 @@ Once you installed and activated WooCommerce, you may install and activate Bitco
 
 ## Installation
 
-1. Install "Bitcoin nova WooCommerce Gateway" ZIP file in Wordpress just like any other plugin.
+1. Install "Bitcoin Nova WooCommerce Gateway" ZIP file in Wordpress just like any other plugin.
 2. Activate
 3. Configure it with your wallet RPC address, (username or password not requested), your Bitcoin nova address 
 4. Profit
@@ -40,10 +40,5 @@ Once you installed and activated WooCommerce, you may install and activate Bitco
 ## Remove plugin
 
 1. Deactivate plugin through the 'Plugins' menu in WordPress
-2. Delete plugin through the 'Plugins' menu in WordPress
-
-## Changelog
-
-= 0.2 =
-* Release!
+2. Delete plugin through the 'Plugins' menu in WordPress.
 
